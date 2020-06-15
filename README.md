@@ -5,7 +5,7 @@ Getting answers to some interesting questions while playing around with World Ba
 
 <img src="/ss1.png"><br>
 
-## Breaking the Suspense: Interesting Questions answered
+## Some Interesting Questions Answered
 
 ### Total Amount of Debt owed by countries: More than 3 Million Million USD
 <img src="/ss2.png"><br>
